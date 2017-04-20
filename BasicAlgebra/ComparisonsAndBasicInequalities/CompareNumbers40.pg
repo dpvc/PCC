@@ -8,18 +8,15 @@
 #
 # ENDDESCRIPTION
 
-## DBsubject('Middle School')
-## DBchapter('')
-## DBsection('')
-## KEYWORDS('compare','negative')
 ## DBCCSS('4.NF.2')
-## TitleText1('')
-## EditionText1('')
-## AuthorText1('')
-## Section1('')
-## Problem1('')
-## Author('Alex Jordan, Carl Yao, Chris Hughes')
-## Institution('PCC')
+## DBsubject(Arithmetic)
+## DBchapter(Integers)
+## DBsection(Inequalities)
+## Institution(PCC)
+## Author(Alex Jordan, Carl Yao, Chris Hughes)
+## Level(2)
+## MO(1)
+## KEYWORDS('compare','negative')
 
 
 

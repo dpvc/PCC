@@ -20,12 +20,16 @@
 # ENDDESCRIPTION
 
 ## DBCC('A-APR.1','A-SSE.2')
-## DBsubject('Algebra')
-## DBchapter('Basic Algebra')
-## DBsection('Exponents', 'Factoring')
+## DBsubject(Algebra)
+## DBchapter(Factoring)
+## DBsection(Factoring by grouping)
+## Institution(PCC)
+## Author(Alex Jordan, Carl Yao, Chris Hughes)
+## MLT(grouping_multi_variable)
+## MLTleader(1)
+## Level(3)
+## MO(1)
 ## KEYWORDS('polynomial','exponents','factoring','factor by grouping','multivariable')
-## Author('Alex Jordan, Carl Yao, Chris Hughes')
-## Institution('PCC')
 
 ##############################################
 DOCUMENT();

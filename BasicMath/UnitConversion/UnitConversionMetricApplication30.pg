@@ -8,18 +8,15 @@
 #
 # ENDDESCRIPTION
 
-## DBsubject('Algebra')
-## DBchapter('Basic Algebra')
-## DBsection('Real Numbers')
-## KEYWORDS('unit','conversion','metric','application','decimal')
 ## DBCCSS('5.MD.1')
-## TitleText1('')
-## EditionText1('')
-## AuthorText1('')
-## Section1('')
-## Problem1('')
-## Author('Carl Yao')
-## Institution('PCC')
+## DBsubject(Arithmetic)
+## DBchapter(Units)
+## DBsection(Conversions)
+## Institution(PCC)
+## Author(Carl Yao)
+## Level(3)
+## MO(1)
+## KEYWORDS('unit','conversion','metric','application','decimal')
 
 
 ##############################################

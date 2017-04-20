@@ -8,18 +8,17 @@
 #
 # ENDDESCRIPTION
 
-## DBsubject('Middle School')
-## DBchapter('')
-## DBsection('')
-## KEYWORDS('fraction','compare','absolute value')
 ## DBCCSS('6.NS.7')
-## TitleText1('')
-## EditionText1('')
-## AuthorText1('')
-## Section1('')
-## Problem1('')
-## Author('Alex Jordan, Carl Yao, Chris Hughes')
-## Institution('PCC')
+## DBsubject(Algebra)
+## DBchapter(Absolute value expressions and functions)
+## DBsection(Absolute value inequalities)
+## Institution(PCC)
+## Author(Alex Jordan, Carl Yao, Chris Hughes)
+## Level(1)
+## MO(1)
+## KEYWORDS('fraction','compare','absolute value')
+## MLT(comparisionAbsoluteValues)
+## MLTleader(1)
 
 
 

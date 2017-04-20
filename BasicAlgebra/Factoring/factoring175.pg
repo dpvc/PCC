@@ -16,12 +16,15 @@
 # ENDDESCRIPTION
 
 ## DBCC('A-APR.1','A-SSE.2')
-## DBsubject('Algebra')
-## DBchapter('Basic Algebra')
-## DBsection('Exponents', 'Factoring')
-## KEYWORDS('polynomial','exponents','factoring')
-## Author('Alex Jordan, Carl Yao, Chris Hughes')
-## Institution('PCC')
+## MTL(basic_trinomial_factoring)
+## DBsubject(Algebra)
+## DBchapter(Factoring)
+## DBsection(Factoring trinomials)
+## Institution(PCC)
+## Author(Alex Jordan, Carl Yao, Chris Hughes)
+## Level(2)
+## MO(1)
+## KEYWORDS('polynomial','exponents','factoring','trinomial')
 
 ##############################################
 DOCUMENT();

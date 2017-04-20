@@ -8,18 +8,16 @@
 # Last updated: Kling, 7/21/13; Wherry, 7/03/13, Yao, 6/26/13
 # ENDDESCRIPTION
  
-## DBsubject('Algebra')
-## DBchapter('Basic Algebra')
-## DBsection('Algebraic Expressions')
-## KEYWORDS('solve','linear','equation','english-to-math','subtract','multiply','divide')
 ## DBCCSS('6.EE.2.a','7.EE.4','A-CED.1','A-REI.3')
-## TitleText1('')
-## EditionText1('')
-## AuthorText1('')
-## Section1('')
-## Problem1('')
-## Author('Alex Jordan, Carl Yao, Chris Hughes')
-## Institution('PCC')
+## DBsubject(Algebra)
+## DBchapter(Algebra of real numbers and simplifying expressions)
+## DBsection(Algebraic expressions)
+## Institution(PCC)
+## Author(Alex Jordan, Carl Yao, Chris Hughes)
+## MLT(English_to_expression)
+## Level(3)
+## MO(1)
+## KEYWORDS('solve','linear','equation','english-to-math','subtract','multiply','divide')
  
 ##############################################
 

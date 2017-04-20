@@ -8,18 +8,15 @@
 #
 # ENDDESCRIPTION
 
-## DBsubject('Algebra')
-## DBchapter('Basic Algebra')
-## DBsection('Algebraic Expressions','Equivalent Expressions','Reordering and Regrouping')
-## KEYWORDS('integer','negative','add')
 ## DBCCSS('7.NS')
-## TitleText1('')
-## EditionText1('')
-## AuthorText1('')
-## Section1('')
-## Problem1('')
-## Author('Alex Jordan, Carl Yao, Chris Hughes')
-## Institution('PCC')
+## DBsubject(Arithmetic)
+## DBchapter(Integers)
+## DBsection(Addition/subtraction)
+## Institution(PCC)
+## Author(Alex Jordan, Carl Yao, Chris Hughes)
+## Level(2)
+## MO(1)
+## KEYWORDS('integer','negative','add')
 
 
 

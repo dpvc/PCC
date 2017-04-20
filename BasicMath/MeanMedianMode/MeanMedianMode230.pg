@@ -7,18 +7,15 @@
 #
 # ENDDESCRIPTION
 
-## DBsubject('Algebra')
-## DBchapter('Basic Algebra')
-## DBsection('')
-## KEYWORDS('mean','application','bar graph')
 ## DBCCSS('6.SP')
-## TitleText1('')
-## EditionText1('')
-## AuthorText1('')
-## Section1('')
-## Problem1('')
-## Author('Carl Yao')
-## Institution('PCC')
+## DBsubject(Statistics)
+## DBchapter(Exploratory data analysis/descriptive statistics)
+## DBsection(Summary statistics)
+## Institution(PCC)
+## Author(Carl Yao)
+## Level(2)
+## MO(1)
+## KEYWORDS('mean','application','bar graph')
 
 ##############################################
 

@@ -7,18 +7,15 @@
 #
 # ENDDESCRIPTION
 
-## DBsubject('Algebra')
-## DBchapter('Basic Algebra')
-## DBsection('Problem Solving with Equations')
-## KEYWORDS('area','perimeter','triangle','conversion')
 ## DBCCSS('4.MD.3','5.MD.1')
-## TitleText1('')
-## EditionText1('')
-## AuthorText1('')
-## Section1('')
-## Problem1('')
-## Author('Carl Yao')
-## Institution('PCC')
+## DBsubject(Geometry)
+## DBchapter(Shapes)
+## DBsection(Area)
+## Institution(PCC)
+## Author(Carl Yao)
+## Level(2)
+## MO(1)
+## KEYWORDS('area','perimeter','triangle','conversion')
 
 ##############################################
 

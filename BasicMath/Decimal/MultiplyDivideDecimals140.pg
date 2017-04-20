@@ -9,18 +9,16 @@
 #
 # ENDDESCRIPTION
 
-## DBsubject('Algebra')
-## DBchapter('Basic Algebra')
-## DBsection('')
-## KEYWORDS('decimal','multiply')
 ## DBCCSS('5.NBT.7')
-## TitleText1('')
-## EditionText1('')
-## AuthorText1('')
-## Section1('')
-## Problem1('')
-## Author('Carl Yao')
-## Institution('PCC')
+## DBsubject(Arithmetic)
+## DBchapter(Integers)
+## DBsection(Multiplication)
+## Institution(PCC)
+## Author(Carl Yao)
+## MLT(basicArithmeticMentalMultiplication)
+## MLTleader(1)
+## Level(2)
+## KEYWORDS('decimal','multiply')
 
 ##############################################
 

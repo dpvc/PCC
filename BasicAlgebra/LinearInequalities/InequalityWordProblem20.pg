@@ -6,18 +6,17 @@
 # Last updated: Jordan 8/29/13;  Kling, 7/24/13; Hughes 7/15/2013, Yao, 6/26/13
 # ENDDESCRIPTION
  
-## DBsubject('Algebra')
-## DBchapter('Basic Algebra')
-## DBsection('Inequalities')
-## KEYWORDS('inequality','linear','set notation','interval notation','multiply','subtract')
 ## DBCCSS('7.EE.4','A-CED.1','A-REI.3')
-## TitleText1('')
-## EditionText1('')
-## AuthorText1('')
-## Section1('')
-## Problem1('')
-## Author('Alex Jordan, Carl Yao, Chris Hughes')
-## Institution('PCC')
+## DBsubject(Algebra)
+## DBchapter(Linear equations and functions)
+## DBsection(Linear inequalities)
+## Institution(PCC)
+## Author(Alex Jordan, Carl Yao, Chris Hughes)
+## MLT(LinearIneq_applic)
+## MLTleader(1)
+## Level(4)
+## MO(1)
+## KEYWORDS('inequality','linear','set notation','interval notation','multiply','subtract')
  
 ##############################################
 

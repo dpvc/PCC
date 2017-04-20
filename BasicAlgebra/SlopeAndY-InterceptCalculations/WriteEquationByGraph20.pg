@@ -7,18 +7,16 @@
 #
 # ENDDESCRIPTION
 
-## DBsubject('Algebra')
-## DBchapter('Basic Algebra')
-## DBsection('Lines')
-## KEYWORDS('coordinate','line','linear','equation','graph','slope')
 ## DBCCSS('8.EE','F-IF.7.a')
-## TitleText1('')
-## EditionText1('')
-## AuthorText1('')
-## Section1('')
-## Problem1('')
-## Author('Alex Jordan, Carl Yao, Chris Hughes')
-## Institution('PCC')
+## DBsubject(Algebra)
+## DBchapter(Linear equations and functions)
+## DBsection(Graphs of lines)
+## Institution(PCC)
+## Author(Alex Jordan, Carl Yao, Chris Hughes)
+## MLT(Eqn_from_graph2)
+## Level(3)
+## MO(1)
+## KEYWORDS('coordinate','line','linear','equation','graph','slope')
 
 ##############################################
 

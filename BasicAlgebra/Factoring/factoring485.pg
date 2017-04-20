@@ -23,12 +23,14 @@
 # ENDDESCRIPTION
 
 ## DBCC('A-APR.1','A-SSE.2')
-## DBsubject('Algebra')
-## DBchapter('Basic Algebra')
-## DBsection('Exponents', 'Factoring')
+## DBsubject(Algebra)
+## DBchapter(Factoring)
+## DBsection(Factoring: special forms)
+## Institution(PCC)
+## Author(Alex Jordan, Carl Yao, Chris Hughes)
+## Level(3)
+## MO(1)
 ## KEYWORDS('polynomial','exponents','factoring','difference of squares','multivariable')
-## Author('Alex Jordan, Carl Yao, Chris Hughes')
-## Institution('PCC')
 
 ##############################################
 DOCUMENT();

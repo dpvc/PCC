@@ -8,18 +8,17 @@
 #
 # ENDDESCRIPTION
 
-## DBsubject('Algebra')
-## DBchapter('Basic Algebra')
-## DBsection('Inequalities')
-## KEYWORDS('linear','inequality', 'number line','set notation','interval notation')
 ## DBCCSS('7.EE.4')
-## TitleText1('')
-## EditionText1('')
-## AuthorText1('')
-## Section1('')
-## Problem1('')
-## Author('Alex Jordan, Carl Yao, Chris Hughes')
-## Institution('PCC')
+## DBsubject(Algebra)
+## DBchapter(Algebra of real numbers and simplifying expressions)
+## DBsection(Inequalities and intervals)
+## Institution(PCC)
+## Author(Alex Jordan, Carl Yao, Chris Hughes)
+## MLT(graphto_build_and_interval)
+## MLTleader(1)
+## Level(3)
+## MO(1)
+## KEYWORDS('linear','inequality', 'number line','set notation','interval notation')
 
 ##############################################
 

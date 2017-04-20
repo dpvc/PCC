@@ -16,18 +16,17 @@
 #
 # ENDDESCRIPTION
 
-## DBsubject('Algebra')
-## DBchapter('Polynomial and Rational Functions')
-## DBsection('Polynomial Functions')
-## KEYWORDS('exponent','simplify','fraction','divide','polynomial','monomial')
 ## DBCCSS('8.EE.1')
-## TitleText1('')
-## EditionText1('')
-## AuthorText1('')
-## Section1('')
-## Problem1('')
-## Author('Alex Jordan, Carl Yao, Chris Hughes')
-## Institution('PCC')
+## DBsubject(Algebra)
+## DBchapter(Properties of exponents, rational exponents and radicals)
+## DBsection(Properties of exponents)
+## Institution(PCC)
+## Author(Alex Jordan, Carl Yao, Chris Hughes)
+## Level(2)
+## MO(1)
+## KEYWORDS('exponent','simplify','fraction','divide','polynomial','monomial')
+## MLT(Exponents_Division_Mix2015)
+## solution step
 
 ##############################################
 
@@ -125,7 +124,6 @@ Context()->flags->set(reduceFractions=>0,reduceContstants=>0);
 Context()->variables->are('x'=>'Real','y'=>'Real');
 Context()->noreduce('(-x)-y','(-x)+y');
 #
-## solution step
 $solnStep[0] = Fraction($a*$d,$d);
 $solnStep[1] = Fraction($b*$d,$d);
 $solnStep[2] = Fraction($c*$d,$d);

@@ -3,6 +3,14 @@
 # This template asks for an algebraic formula to convert pounds to kilograms using function notation. # Last updates: Neft 7/23/2013
 # ENDDESCRIPTION
 
+## DBsubject(Algebra)
+## DBchapter(Functions)
+## DBsection(Interpretation and applications)
+## Institution(PCC)
+## Author(Debbie Neft, Alex Jordan, Carl Yao, Chris Hughes)
+## Level(3)
+## MO(1)
+## KEYWORDS('function')
 ##DBsubject('Algebra')
 ##DBchapter('')
 ##DBsection('')

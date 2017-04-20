@@ -7,18 +7,17 @@
 #
 # ENDDESCRIPTION
 
-## DBsubject('Algebra')
-## DBchapter('Basic Algebra')
-## DBsection('Coordinate Geometry')
-## KEYWORDS('coordinate','ordered pair',)
 ## DBCCSS('6.NS.6')
-## TitleText1('')
-## EditionText1('')
-## AuthorText1('')
-## Section1('')
-## Problem1('')
-## Author('Alex Jordan, Carl Yao, Chris Hughes')
-## Institution('PCC')
+## DBCCSS('6.NS.6')
+## DBsubject(Algebra)
+## DBchapter(Cartesian coordinate system)
+## DBsection(Plotting points)
+## Institution(PCC)
+## Author(Alex Jordan, Carl Yao, Chris Hughes)
+## MLT(id_points_from_graph_1)
+## Level(1)
+## MO(1)
+## KEYWORDS('coordinate','ordered pair')
 
 ##############################################
 
@@ -169,18 +168,6 @@ ENDDOCUMENT();
 #
 # ENDDESCRIPTION
 
-## DBsubject('Algebra')
-## DBchapter('Basic Algebra')
-## DBsection('Coordinate Geometry')
-## KEYWORDS('coordinate','ordered pair',)
-## DBCCSS('6.NS.6')
-## TitleText1('')
-## EditionText1('')
-## AuthorText1('')
-## Section1('')
-## Problem1('')
-## Author('Alex Jordan, Carl Yao, Chris Hughes')
-## Institution('PCC')
 
 ##############################################
 

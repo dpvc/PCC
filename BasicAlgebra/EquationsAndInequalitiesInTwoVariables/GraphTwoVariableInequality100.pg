@@ -6,18 +6,17 @@
 # Last updated Carl Yao 9/4/13;
 # ENDDESCRIPTION
 
-## DBsubject('Algebra')
-## DBchapter('Equations and Inequalities')
-## DBsection('Linear Inequalities')
-## KEYWORDS('linear','inequality','graph','two variables','application')
 ## DBCCSS('A-REI.12')
-## TitleText1('')
-## EditionText1('')
-## AuthorText1('')
-## Section1('')
-## Problem1('')
-## Author('Alex Jordan, Carl Yao, Chris Hughes')
-## Institution('PCC')
+## DBsubject(Algebra)
+## DBchapter(Linear equations and functions)
+## DBsection(Linear inequalities)
+## Institution(PCC)
+## Author(Alex Jordan, Carl Yao, Chris Hughes)
+## MLT(graphs_of_linear_inequalities_word_problem)
+## MLTleader(1)
+## Level(5)
+## MO(1)
+## KEYWORDS('linear','inequality','graph','two variables','application')
 
 ##############################################
 
